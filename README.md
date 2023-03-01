@@ -54,8 +54,7 @@ Let's build something amazing together!
      <img src="https://img.shields.io/badge/Postgresql-0078D4?style=for-the-badge&logo=Postgresql&logoColor=white" height="25">
 &nbsp;
 <img src="https://img.shields.io/badge/Gitlab-%23575757.svg?&style=for-the-badge&logo=gitlab&logoColor=important" height="25">
-</p>
-<p>
+&nbsp;
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 &nbsp;
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
