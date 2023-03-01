@@ -21,7 +21,7 @@ Let's build something amazing together!
 
 <br>
 
-<p  align="center">
+<p>
 
 
 <img src="https://img.shields.io/badge/kubernetes-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"> 
